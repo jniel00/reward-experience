@@ -23,7 +23,7 @@ const Home: NextPage = () => {
     <>
       <Head>
         <title>Bookstore Home</title>
-        <meta name='description' content='Hawk Eye Reward Experience' />
+        <meta name='description' content='Hawk Eye - Reward Experience' />
         <link rel='icon' href='/favicon.ico' />
       </Head>
 
